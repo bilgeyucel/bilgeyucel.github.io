@@ -4,6 +4,7 @@
     --deepset: #188bf5;
     --green: #2c542f;
     --powder-pink: #f4abba;
+    --light-green:#CBDDD0;
 
     --small-screen: 1250px;
 }
@@ -90,7 +91,7 @@ body {
     max-width: 300px;
 }
 
-.banner {
+.cute-icons {
     display: block;
     margin: auto;
     width: 100%;
